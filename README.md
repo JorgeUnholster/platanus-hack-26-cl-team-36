@@ -13,6 +13,15 @@ team-36
 - Rodrigo Elicer Krause ([@rodrigoelicer](https://github.com/rodrigoelicer))
 - Ariel Ignacio Madariaga González ([@arielm-unholster](https://github.com/arielm-unholster))
 
+## El proyecto
+
+Extensión de navegador que usa el Claude de cada persona para adaptar la interfaz de cualquier página web a su gusto,
+y un servidor central que aprende de toda la comunidad para recomendar interfaces entre usuarios. El nombre del
+producto está por definir.
+
+- [Especificación del MVP](specs/MVP.md): qué se construye en las primeras 24 horas y cómo funciona.
+- [Investigación previa](docs/investigacion-ui-adaptativa.md): estado del arte de las interfaces adaptativas.
+
 Before Submitting:
 
 - ✅ Fill in the project metadata (name, oneliner, description and deploy URL) in platanus-hack-project.jsonc
